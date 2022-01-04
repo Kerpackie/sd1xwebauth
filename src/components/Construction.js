@@ -6,7 +6,7 @@ import './HeroSection.css';
 function Construction() {
     return (
         <div className='hero-container'>
-            <video src='/videos/under-construction.mp4' autoPlay loop muted />
+            <video src='./sd1xwebauth/videos/under-construction.mp4' autoPlay loop muted />
             <h1>Oh no!</h1>
             <p>This section is under construction!</p>
             <div className='hero-btns'>
