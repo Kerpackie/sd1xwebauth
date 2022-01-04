@@ -11,13 +11,13 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='/images/zucc.jpg'
+              src='https://raw.githubusercontent.com/Kerpackie/sd1xwebauth/main/public/images/zucc.jpg'
               text='Mark Zuckerberg Confirmed to be Robot'
               label='News'
               path='/news'
             />
             <CardItem
-              src='/images/data-leak.jpeg'
+              src='https://raw.githubusercontent.com/Kerpackie/sd1xwebauth/main/public/images/data-leak.jpeg'
               text='Shell4J - New Java Exploit in Logging Tool "Log4J"'
               label='News'
               path='/news'
@@ -25,19 +25,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='/images/cloud.png'
+              src='https://raw.githubusercontent.com/Kerpackie/sd1xwebauth/main/public/images/cloud.png'
               text='New Azure Cloud Architecture Bundle'
               label='Services'
               path='/services'
             />
             <CardItem
-              src='/images/saas.jpg'
+              src='https://raw.githubusercontent.com/Kerpackie/sd1xwebauth/main/public/images/saas.jpg'
               text='Breaking the monolith. Turning your monolithic service into microservices.'
               label='Product'
               path='/products'
             />
             <CardItem
-              src='/images/code-screen.jpg'
+              src='https://raw.githubusercontent.com/Kerpackie/sd1xwebauth/main/public/images/code-screen.jpg'
               text='Web Development at affordable prices.'
               label='Product'
               path='/products'
