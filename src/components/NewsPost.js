@@ -6,12 +6,12 @@ function NewsPost() {
     return (
         <section className="newspost">
             <div className="newspost-wrapper">
-                <img className="newspost-avatar" src="./sd1xwebauth/images/me.jpg" alt="Cillian Keogh"/>
+                <img className="newspost-avatar" src="/sd1xwebauth/images/me.jpg" alt="Cillian Keogh"/>
                 <div className="newspost-quote">
 
                     <h1>Zucc is actually a robot!</h1>
                     <br></br>
-                    <img className="newspost-img" src="./sd1xwebauth/images/zucc.jpg" alt="Zucc Bot"/>
+                    <img className="newspost-img" src="/sd1xwebauth/images/zucc.jpg" alt="Zucc Bot"/>
 
                     <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis ante sed dolor imperdiet, eu aliquet nibh porttitor. Fusce auctor odio urna. Vestibulum laoreet lorem commodo, lobortis arcu nec, elementum dolor. Aliquam ligula purus, tincidunt et est nec, consectetur blandit neque. Aliquam aliquam maximus augue, ut facilisis elit. Pellentesque a ligula a leo auctor egestas. Fusce blandit nulla sed iaculis aliquam. Curabitur feugiat pretium velit, in sodales elit finibus et. Suspendisse pulvinar quis nulla venenatis vulputate. Vestibulum elementum sem mauris, sit amet cursus nisl sollicitudin eget. Quisque pellentesque nunc eu justo varius, eget sollicitudin mi scelerisque. Proin iaculis ultricies sem, ac iaculis diam semper tristique. Nullam laoreet dolor eu tellus dapibus tincidunt.
@@ -36,12 +36,12 @@ function NewsPost() {
             <br></br>
 
             <div className="newspost-wrapper">
-                <img className="newspost-avatar" src="./sd1xwebauth/images/me.jpg" alt="Cillian Keogh"/>
+                <img className="newspost-avatar" src="/sd1xwebauth/images/me.jpg" alt="Cillian Keogh"/>
                 <div className="newspost-quote">
 
                     <h1>Log4Shell Vulnerability, what you need to know!</h1>
                     <br></br>
-                    <img className="newspost-img" src="./sd1xwebauth/images/data-leak.jpeg" alt="Log4Shell"/>
+                    <img className="newspost-img" src="/sd1xwebauth/images/data-leak.jpeg" alt="Log4Shell"/>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis ante sed dolor imperdiet, eu aliquet nibh porttitor. Fusce auctor odio urna. Vestibulum laoreet lorem commodo, lobortis arcu nec, elementum dolor. Aliquam ligula purus, tincidunt et est nec, consectetur blandit neque. Aliquam aliquam maximus augue, ut facilisis elit. Pellentesque a ligula a leo auctor egestas. Fusce blandit nulla sed iaculis aliquam. Curabitur feugiat pretium velit, in sodales elit finibus et. Suspendisse pulvinar quis nulla venenatis vulputate. Vestibulum elementum sem mauris, sit amet cursus nisl sollicitudin eget. Quisque pellentesque nunc eu justo varius, eget sollicitudin mi scelerisque. Proin iaculis ultricies sem, ac iaculis diam semper tristique. Nullam laoreet dolor eu tellus dapibus tincidunt.
