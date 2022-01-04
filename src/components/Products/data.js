@@ -1,7 +1,7 @@
 export default [
     {
         name: '1 Page Website',
-        image: './sd1xwebauth/images/server-1.png',
+        image: '/sd1xwebauth/images/server-1.png',
         lineOne: 'Irish Servers',
         lineTwo: '1 Database',
         lineThree: '1 Email Address',
@@ -12,7 +12,7 @@ export default [
     },
     {
         name: '5 Page Website',
-        image: './sd1xwebauth/images/server-2.png',
+        image: '/sd1xwebauth/images/server-2.png',
         lineOne: 'Irish Servers',
         lineTwo: '5 Databases',
         lineThree: '5 Email Addresses',
@@ -23,7 +23,7 @@ export default [
     },
     {
         name: '25 Page Website',
-        image: './sd1xwebauth/images/server-3.png',
+        image: '/sd1xwebauth/images/server-3.png',
         lineOne: 'Irish Servers',
         lineTwo: '100 Databases',
         lineThree: 'Unlimited Email Addresses',
@@ -34,7 +34,7 @@ export default [
     },
     {
         name: '50 Page Website',
-        image: './sd1xwebauth/images/server-4.png',
+        image: '/sd1xwebauth/images/server-4.png',
         lineOne: 'Irish Servers',
         lineTwo: 'Unlimited Databases',
         lineThree: 'Unlimited Email Addresses',
